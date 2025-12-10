@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52b689f1-1fe2-4a83-a1e3-c5bf6923e693" name="Changes" comment="modeling">
-      <change afterPath="$PROJECT_DIR$/install.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="52b689f1-1fe2-4a83-a1e3-c5bf6923e693" name="Changes" comment="finding best param">
       <change beforePath="$PROJECT_DIR$/NYC.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NYC.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765292316216</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="finding best param">
+      <option name="closed" value="true" />
+      <created>1765368768998</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1765368768998</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -110,14 +114,15 @@
     <MESSAGE value="loading df" />
     <MESSAGE value="delete" />
     <MESSAGE value="modeling" />
-    <option name="LAST_COMMIT_MESSAGE" value="modeling" />
+    <MESSAGE value="finding best param" />
+    <option name="LAST_COMMIT_MESSAGE" value="finding best param" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>file://$PROJECT_DIR$/NYC.ipynb</url>
-          <line>168</line>
+          <line>181</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
