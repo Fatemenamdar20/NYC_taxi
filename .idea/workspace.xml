@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52b689f1-1fe2-4a83-a1e3-c5bf6923e693" name="Changes" comment="finding best param">
+    <list default="true" id="52b689f1-1fe2-4a83-a1e3-c5bf6923e693" name="Changes" comment="clustering output">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NYC.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NYC.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765368768998</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="clustering output">
+      <option name="closed" value="true" />
+      <created>1765369827348</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1765369827348</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -115,14 +124,15 @@
     <MESSAGE value="delete" />
     <MESSAGE value="modeling" />
     <MESSAGE value="finding best param" />
-    <option name="LAST_COMMIT_MESSAGE" value="finding best param" />
+    <MESSAGE value="clustering output" />
+    <option name="LAST_COMMIT_MESSAGE" value="clustering output" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>file://$PROJECT_DIR$/NYC.ipynb</url>
-          <line>181</line>
+          <line>186</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
